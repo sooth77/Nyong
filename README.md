@@ -3,3 +3,4 @@
 
 노션 : https://app.notion.com/p/3f9ae2ab062580609e50d3d7f11b1779  
 라이브러리 : pip install -r requirements.txt  
+가상환경 자동 실행 : source setup.sh
